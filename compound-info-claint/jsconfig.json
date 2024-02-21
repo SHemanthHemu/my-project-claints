@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src",
+      "paths": {
+        "@mui/lab/*": ["node_modules/@mui/lab/*"]
+      }
+    }
+  }
+  
